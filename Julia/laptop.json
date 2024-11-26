@@ -6,5 +6,5 @@
 "devices": ["touchpad","webcam"],
 "color": "silver",
 "price": 900.99,
-"features": ["Wifi 6, "Bluetooth 5.0"]
+"features": ["Wifi 6", "Bluetooth 5.0"]
 }
